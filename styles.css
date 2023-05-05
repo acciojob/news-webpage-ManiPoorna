@@ -1,1 +1,17 @@
 /*  your css code here. If applicable */
+*{
+	background :#f5f5f5;
+}
+.header{
+	height:50px;
+	color : white;
+	background : #011e29;
+	display : flex;
+	justify-content : center;
+	align-items : center;
+	font-size : 24px;	
+}
+.articles{
+	background : white;
+	border-radius : 10px;
+}
