@@ -19,6 +19,10 @@
 .articles,.main-article,.pictorial{
 	width: 33%;
 }
+.articles{
+	background: #fff;
+	padding:3px;
+}
 .images{
 	display:flex;
 	flex-direction : column;
