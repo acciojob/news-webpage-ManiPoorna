@@ -16,13 +16,16 @@
 	display:flex;
 	justify-content: center;
 }
-.articles,.main-article,.pictorial{
+.articles,.main-article,.pictorial-news-section{
 	width: 33%;
 }
-.articles{
+..latest-news-section{
 	background: #fff;
 	padding:3px;
 	width:30%;
+}
+.latest-news-section h3,.latest-news-section ul, .latest-news-section ul li{
+	background : #fff;
 }
 .images{
 	display:flex;
@@ -32,3 +35,13 @@
 .images img{
 	width : 100px;
 }
+
+
+
+
+
+
+
+
+
+
